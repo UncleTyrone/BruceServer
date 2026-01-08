@@ -1,0 +1,37 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:snowball": 1,
+      "minecraft:potato": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 6000,
+      "minecraft:walk_one_cm": 11719,
+      "minecraft:damage_taken": 10,
+      "minecraft:play_time": 6000,
+      "minecraft:jump": 145,
+      "minecraft:time_since_death": 6000,
+      "minecraft:open_barrel": 2,
+      "minecraft:interact_with_furnace": 1,
+      "minecraft:sprint_one_cm": 26269,
+      "minecraft:open_chest": 3,
+      "minecraft:interact_with_smoker": 2,
+      "minecraft:fall_one_cm": 6407,
+      "minecraft:total_world_time": 6000,
+      "minecraft:fly_one_cm": 36481
+    },
+    "minecraft:picked_up": {
+      "minecraft:rabbit": 1,
+      "minecraft:potato": 3,
+      "farmersdelight:organic_compost": 1,
+      "minecraft:diamond": 2,
+      "minecraft:decorated_pot": 2
+    },
+    "minecraft:mined": {
+      "minecraft:decorated_pot": 2,
+      "farmersdelight:organic_compost": 1,
+      "minecraft:potatoes": 1
+    }
+  },
+  "DataVersion": 4671
+}
